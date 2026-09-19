@@ -1,0 +1,17 @@
+DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,api-siri-prod.apple.com
+DOMAIN,seed.siri.apple.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-api.fe2.apple-dns.net
+DOMAIN,apple-relay.akamaized.net
+DOMAIN,apple-carry-relay.cloudflare.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,gateway.icloud.com
+DOMAIN,probe.icloud.com
+DOMAIN,metrics.icloud.com
