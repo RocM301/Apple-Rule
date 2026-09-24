@@ -19,3 +19,23 @@ apple_ai:
   path: ./ruleset/apple_ai.list
   interval: 86400
 ```
+
+## sing-box / Momo
+
+Native sing-box rule-set source format:
+
+```text
+https://raw.githubusercontent.com/RocM301/Apple-Rule/refs/heads/main/Apple-AI.json
+```
+
+Example:
+
+```json
+{
+  "tag": "apple-ai",
+  "type": "remote",
+  "format": "source",
+  "url": "https://raw.githubusercontent.com/RocM301/Apple-Rule/refs/heads/main/Apple-AI.json",
+  "download_detour": "🎯 全球直连"
+}
+```
