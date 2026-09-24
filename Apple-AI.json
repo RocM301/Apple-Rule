@@ -3,25 +3,24 @@
   "rules": [
     {
       "domain": [
-        "guzzoni.apple.com",
-        "mask-api.fe.apple-dns.net",
-        "mask-api.icloud.com",
-        "mask-t.apple-dns.net",
-        "mask.apple-dns.net"
-      ],
-      "domain_suffix": [
-        "smoot.apple.com",
+        "api-siri-prod.apple.com",
+        "seed.siri.apple.com",
         "apple-relay.apple.com",
         "apple-relay.cloudflare.com",
         "apple-relay.fastly-edge.com",
-        "apple-relay.mask.apple-dns.net",
         "cp4.cloudflare.com",
+        "apple-relay.mask.apple-dns.net",
+        "mask-api.icloud.com",
+        "mask-api.fe2.apple-dns.net",
+        "apple-relay.akamaized.net",
+        "apple-carry-relay.cloudflare.com",
         "gspe1-ssl.ls.apple.com",
         "gateway.icloud.com",
-        "ls.apple.com",
-        "mask-h2.icloud.com",
-        "mask.icloud.com",
-        "apps.mzstatic.com"
+        "probe.icloud.com",
+        "metrics.icloud.com"
+      ],
+      "domain_suffix": [
+        "smoot.apple.com"
       ]
     }
   ]
